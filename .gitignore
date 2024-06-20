@@ -52,6 +52,6 @@ profile.cov
 /geth.exe
 reset.sh
 startgeth.sh
-geth.services
+geth.service
 data
 password.txt
